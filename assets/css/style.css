@@ -1,0 +1,44 @@
+
+body {
+    background-color: #D9D9D9;
+}
+
+h1 {
+    font-family: 'Sora', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Sora', sans-serif;
+    text-align: center; 
+    margin-right: 250px;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+li {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: -15px;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    margin-right: 330px;
+}
+
+.listTwo {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    margin-left: 100px;    
+}
